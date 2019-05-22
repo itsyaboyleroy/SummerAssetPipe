@@ -873,3 +873,277 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.22-20.40.02:197][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyCityLevel_BuiltData" FILE="../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel_BuiltData.uasset" SILENT=true
 [2019.05.22-20.40.02:210][372]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/MyCityLevel_BuiltDataA872F54640B5602B115492B359B17AC4.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel_BuiltData.uasset'
 [2019.05.22-20.40.02:560][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.41.58:229][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.42.05:638][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.42.08:482][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.42.32:455][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.42.39:181][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.22-20.42.45:026][ 79]Cmd: TRANSACTION UNDO
+[2019.05.22-20.42.45:026][ 79]LogEditorTransaction: Undo Move Actors
+[2019.05.22-20.42.48:797][317]LogEditorViewport: Clicking Background
+[2019.05.22-20.42.53:555][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.43.09:739][574]LogEditorViewport: Clicking Background
+[2019.05.22-20.43.13:082][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.43.37:388][382]Cmd: TRANSACTION UNDO
+[2019.05.22-20.43.37:388][382]LogEditorTransaction: Undo Move Actors
+[2019.05.22-20.44.09:587][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.44.55:623][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.45.01:700][281]LogMaterial: Display: Missing cached shader map for material WB_SWalk_2, compiling. 
+[2019.05.22-20.45.01:739][281]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.01:739][281]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.22-20.45.01:739][281]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.22-20.45.06:935][602]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/WB_Building956B372D4997CD91EF084C91AB52DBEC.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/WB_materials/WB_Building.uasset'
+[2019.05.22-20.45.08:590][684]LogAssetEditorManager: Opening Asset editor for Material /Game/WB_materials/WB_Building.WB_Building
+[2019.05.22-20.45.08:593][684]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.08:849][684]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.08:862][684]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.08:890][684]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.22-20.45.08:890][684]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.22-20.45.08:890][684]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.22-20.45.08:890][684]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.22-20.45.08:904][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.22-20.45.08:950][684]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.08:978][684]LogSlate: Took 0.005092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.22-20.45.09:128][685]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.22-20.45.09:129][685]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.22-20.45.09:129][685]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.09:137][685]LogSlate: Took 0.003936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.22-20.45.09:273][699]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.09:284][700]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.09:299][702]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.09:308][703]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.09:401][714]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.09:458][721]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.09:683][745]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.09:724][749]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.22-20.45.09:771][755]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.22-20.45.09:867][765]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.22-20.45.09:952][773]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.22-20.45.10:141][793]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.22-20.45.10:217][802]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.22-20.45.10:233][804]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.22-20.45.10:351][818]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.10:482][832]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.22-20.45.10:514][836]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.10:595][844]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.22-20.45.10:611][845]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.05.22-20.45.10:611][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.05.22-20.45.10:611][845]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.22-20.45.10:611][845]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.22-20.45.10:684][852]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.22-20.45.14:825][332]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.14:843][332]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.22-20.45.14:843][332]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.22-20.45.14:843][332]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.22-20.45.14:843][332]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.22-20.45.14:846][332]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.22-20.45.14:876][332]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.15:035][341]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.22-20.45.15:072][344]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.22-20.45.15:083][345]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.15:091][346]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.15:196][357]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.15:226][360]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.15:244][362]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.15:262][364]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.15:361][375]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.15:510][390]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.15:631][403]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.22-20.45.15:668][407]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.22-20.45.15:743][415]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.22-20.45.15:841][426]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.22-20.45.15:878][430]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.22-20.45.16:074][450]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.22-20.45.16:083][451]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.22-20.45.16:169][461]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.16:225][467]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.22-20.45.16:298][475]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.16:451][490]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.22-20.45.16:463][491]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.22-20.45.16:464][491]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.05.22-20.45.16:464][491]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.05.22-20.45.16:464][491]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.22-20.45.16:464][491]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.22-20.45.17:583][624]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.17:596][624]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.22-20.45.17:596][624]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.22-20.45.17:604][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.22-20.45.17:631][624]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.22-20.45.17:641][624]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.17:800][641]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.22-20.45.17:826][644]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.22-20.45.17:832][645]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.22-20.45.17:992][662]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.22-20.45.18:010][664]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.18:028][666]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.18:163][682]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.18:172][683]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.18:180][684]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.18:333][701]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.18:621][729]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.18:630][730]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.18:667][734]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.22-20.45.18:903][759]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.22-20.45.19:009][771]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.22-20.45.19:034][774]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.22-20.45.19:064][777]LogMaterialEditor: Applying material WB_Building
+[2019.05.22-20.45.19:483][777]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.22-20.45.19:483][777]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.22-20.45.19:483][777]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.22-20.45.19:483][777]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.19:503][777]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.19:562][777]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.22-20.45.19:562][777]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.19:565][777]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.19:584][777]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.19:613][777]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.19:630][777]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.19:774][777]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.22-20.45.19:786][777]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.22-20.45.19:841][777]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.22-20.45.19:906][777]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WB_Building, compiling. 
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.21:152][777]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.21:157][777]TextureStreamingBuild: Display: Compiling optional shaders took 1.259 seconds.
+[2019.05.22-20.45.21:178][777]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.21:191][777]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.22-20.45.21:245][777]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.22-20.45.24:002][ 14]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.05.22-20.45.24:002][ 14]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.05.22-20.45.24:002][ 14]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.22-20.45.24:002][ 14]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.22-20.45.26:724][284]LogEditorViewport: Clicking Background
+[2019.05.22-20.45.28:806][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.45.32:116][875]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.32:133][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.22-20.45.32:148][875]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.22-20.45.32:148][875]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.22-20.45.32:148][875]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.22-20.45.32:148][875]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.22-20.45.32:162][875]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.32:319][886]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.22-20.45.32:358][890]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.22-20.45.32:369][891]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.32:376][892]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.32:469][901]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.32:508][905]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.32:525][907]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.32:534][908]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.32:615][917]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.32:787][933]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.32:916][946]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.22-20.45.32:963][951]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.22-20.45.33:011][956]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.22-20.45.33:139][970]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.22-20.45.33:194][975]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.22-20.45.33:373][994]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.22-20.45.33:383][995]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.22-20.45.33:473][  5]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.33:530][ 11]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.22-20.45.33:601][ 19]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.33:608][ 19]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.33:630][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.22-20.45.33:658][ 19]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.22-20.45.33:670][ 19]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.33:727][ 23]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.22-20.45.33:738][ 24]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.22-20.45.33:757][ 26]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.22-20.45.33:959][ 48]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.22-20.45.33:988][ 50]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.22-20.45.33:996][ 52]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.22-20.45.34:115][ 65]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.34:149][ 68]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.34:167][ 70]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.34:297][ 83]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.34:312][ 85]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.34:330][ 87]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.34:585][115]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.34:691][127]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.34:717][130]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.22-20.45.34:943][153]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.22-20.45.34:950][154]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.22-20.45.35:090][170]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.22-20.45.35:319][193]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.22-20.45.35:355][197]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.22-20.45.35:392][201]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.22-20.45.35:433][206]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.35:624][225]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.22-20.45.35:662][229]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.35:714][235]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.22-20.45.35:727][236]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.22-20.45.35:728][236]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.05.22-20.45.35:728][236]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.05.22-20.45.35:728][236]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.22-20.45.35:728][236]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.22-20.45.49:805][638]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/MyCityLevelC508B542487B8DEFA811B6BBD18F1CBB.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel.umap'
+[2019.05.22-20.45.49:839][638]LogFileHelpers: Saving map 'MyCityLevel' took 2.341
+[2019.05.22-20.45.49:847][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyCityLevel_BuiltData" FILE="../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel_BuiltData.uasset" SILENT=true
+[2019.05.22-20.45.49:867][638]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/MyCityLevel_BuiltDataAFFB42A54E354F1F2EFBC889DD7ADB84.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel_BuiltData.uasset'
+[2019.05.22-20.45.49:925][638]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/WB_Building570104FB4869CE567BB5D09E7C7D9BA5.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/WB_materials/WB_Building.uasset'
+[2019.05.22-20.45.50:650][723]LogMaterialEditor: Applying material WB_Building
+[2019.05.22-20.45.50:972][723]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.51:009][723]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.22-20.45.51:009][723]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.22-20.45.51:009][723]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.22-20.45.51:009][723]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.22-20.45.51:022][723]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.51:050][723]LogMaterial: Display: Missing cached shader map for material WB_Building, compiling. 
+[2019.05.22-20.45.51:218][723]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.22-20.45.51:236][723]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.22-20.45.51:249][723]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.22-20.45.51:258][723]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.51:357][723]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WB_Building, compiling. 
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.22-20.45.52:256][723]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.22-20.45.52:257][723]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.22-20.45.52:257][723]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.22-20.45.52:257][723]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.22-20.45.52:257][723]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.22-20.45.52:257][723]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.22-20.45.52:257][723]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.22-20.45.52:261][723]TextureStreamingBuild: Display: Compiling optional shaders took 0.910 seconds.
+[2019.05.22-20.45.52:294][723]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.22-20.45.54:852][974]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.05.22-20.45.54:852][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.05.22-20.45.54:852][974]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.22-20.45.54:852][974]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.22-20.46.07:035][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.46.11:972][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.46.13:751][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.46.16:100][710]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/MyCityLevelC7129FEB4AF24F582FBF5A8E5EB47254.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel.umap'
+[2019.05.22-20.46.16:134][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyCityLevel_BuiltData" FILE="../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel_BuiltData.uasset" SILENT=true
+[2019.05.22-20.46.16:153][710]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/MyCityLevel_BuiltDataEDEA61D444A437327702F0BB27AD097D.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/MyCityLevel_BuiltData.uasset'
+[2019.05.22-20.46.16:881][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.46.17:989][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-20.46.18:039][921]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Saved/WB_BuildingB07146BB475196CCDE8B1CB16A4641FB.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/EAE3010SRassign001/Content/WB_materials/WB_Building.uasset'
+[2019.05.22-20.47.02:776][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.47.10:905][323]LogEditorViewport: Clicking Background
+[2019.05.22-20.47.13:470][603]LogEditorViewport: Clicking Background
+[2019.05.22-20.47.15:097][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.47.22:104][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.47.28:260][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-20.47.43:663][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
