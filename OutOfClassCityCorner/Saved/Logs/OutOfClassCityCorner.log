@@ -4101,3 +4101,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.19-18.09.07:251][900]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2019.06.19-18.09.11:303][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.06.19-18.09.15:743][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.18.18:502][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.18.41:246][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.18.50:395][307]LogEditorViewport: Clicking Background
+[2019.06.19-18.19.07:929][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangleBlock2662)
+[2019.06.19-18.19.09:022][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangleBlock2661)
+[2019.06.19-18.19.09:817][440]Cmd: DELETE
+[2019.06.19-18.19.09:817][440]Cmd: ACTOR DELETE
+[2019.06.19-18.19.09:930][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.19-18.19.09:950][440]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2019.06.19-18.19.11:255][588]LogEditorViewport: Clicking Background
+[2019.06.19-18.19.27:885][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.19.31:783][640]Cmd: DELETE
+[2019.06.19-18.19.31:784][640]Cmd: ACTOR DELETE
+[2019.06.19-18.19.31:896][640]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.19-18.19.31:917][640]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2019.06.19-18.19.54:327][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangleBlock2657)
+[2019.06.19-18.20.15:173][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.20.16:328][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.20.19:622][ 30]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Saved/testLevelB88DB9694382FBC90B34C3BED91971C6.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Content/testLevel.umap'
+[2019.06.19-18.20.19:651][ 30]LogFileHelpers: Saving map 'testLevel' took 3.318
+[2019.06.19-18.20.19:803][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.22.40:980][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.22.46:478][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.22.49:680][791]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Saved/testLevelB97F71CE4404862AE21A69871EF2E2CD.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Content/testLevel.umap'
+[2019.06.19-18.23.45:032][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangleBlock4673)
+[2019.06.19-18.23.46:099][265]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.06.19-18.23.47:235][311]LogEditorViewport: Clicking Background
+[2019.06.19-18.24.30:549][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangleBlock3911)
+[2019.06.19-18.24.43:389][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangleBlock3910)
+[2019.06.19-18.24.57:642][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (woodenDome3)
+[2019.06.19-18.25.29:819][709]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (WalkingAnimation2)
+[2019.06.19-18.25.42:698][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.25.45:948][867]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Saved/testLevelD15340A2458030698531E48B9DDC5CCE.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Content/testLevel.umap'
+[2019.06.19-18.25.48:790][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.25.55:054][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.54.05:917][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.54.11:182][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.54.20:386][918]LogSavePackage: Moving '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Saved/testLevel3374E73147DC838FB493AA8489551B62.tmp' to '../../../../../../Users/u1196342/Documents/GitHub/SummerAssetPipe/OutOfClassCityCorner/Content/testLevel.umap'
+[2019.06.19-18.54.22:321][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
